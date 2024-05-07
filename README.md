@@ -2,9 +2,11 @@
 ## Hi there 👋
 ### Checkout my Socials
 <div class="container">
-<button><img alt="Static Badge" src="https://img.shields.io/badge/Twitter-Twitter?style=for-the-badge&logo=x&logoColor=%23AAB8C2&logoSize=15&label=%40wontdisappoint_&labelColor=%23657786&color=%231DA1F2&link=https%3A%2F%2Ftwitter.com%2Fwontdisappoint_"></button>
-<button>
+  <button>
 <img alt="Static Badge" src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=%23000000&logoSize=15&label=%40wontdisappoint_&labelColor=%23657786&color=%23000000">
+</button>
+  <button>
+<img alt="Static Badge" src="https://img.shields.io/badge/stackoverflow-stackoverflow?style=for-the-badge&logo=stackoverflow&logoColor=%23F58025&logoSize=15&label=%40wontdisappoint&labelColor=%20%09%23657786&color=%23F58025&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F22540821%2Fwontdisappoint">
 </button>
 </div>
 
