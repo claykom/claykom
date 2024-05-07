@@ -3,8 +3,9 @@
 ### Checkout my Socials
 <div class="container">
   <button>
-    <a href="https://twitter.com/wontdisappoint_></a>
+    <a href="https://twitter.com/wontdisappoint_">
 <img alt="Static Badge" src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=%23000000&logoSize=15&label=%40wontdisappoint_&labelColor=%23657786&color=%23000000">
+    </a>
 
 </button>
   <button>
