@@ -66,6 +66,6 @@
   
 | *Desenv. Front End Web:* | *:Test:* |
 | :----------------------: | :------: |
- | <p>HTML<img alt="HTML5" height="40" width="50" src="#"/></p> <img alt="CSS3" height="40" width="50" src="#"/> <img alt="JavaScript" height="40" width="50" src="#"/> |
+ | <p>HTML<img alt="HTML5" height="40" width="60" src="#"/></p> <img alt="CSS3" height="40" width="50" src="#"/> <img alt="JavaScript" height="40" width="50" src="#"/> |
 </div>
 </div>
