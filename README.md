@@ -55,9 +55,10 @@
         <img alt="Dashboard stats of @wontdisappoint" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=40035603&image_size=auto&color_scheme=dark" width="771" height="auto">
       </picture>
     </a>
+  </div>
     
   ### GitHub Trophies
+  <div>
    <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
   </div>
 </div>
-<div>
