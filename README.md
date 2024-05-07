@@ -61,14 +61,3 @@
   </div>
 </div>
 <div>
-  
-<div align="center">
-  <table>
-    <tr>
-      <th>Desenv. Front End Web</th>
-    </tr>
-    <tr>
-      <td> <span>HTML<img alt="HTML5" height="40" width="50" src="#"/></span> <span>CSS<img alt="CSS3" height="40" width="50" src="#"/> </span> <span>JavaScript<img alt="JavaScript" height="40" width="50" src="#"/></span></td>
-    </tr>
-  </table>
-</div>
