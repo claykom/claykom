@@ -20,9 +20,9 @@
 <div>
 
   ## Skills
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,js,css,cs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,cs,dotnet,git,linux,unity,rider,neovim,regex,sqlite,mysql&theme=dark" />
   </a>
 </p>
   
