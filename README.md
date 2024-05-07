@@ -64,7 +64,7 @@
   
 <div align="center">
   
-<table style="width:100%">
+<table>
   <tr>
     <th>Desenv. Front End Web</th>
     <th>test</th>
