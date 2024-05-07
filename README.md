@@ -19,10 +19,17 @@
 </div>
 <div>
 
-  ## Skills
+  ## Languages & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,cs,dotnet,git,linux,unity,rider,neovim,regex,sqlite,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,php,laravel" />
+  </a>
+</p>
+
+## Other Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,unity,rider,neovim,regex,sqlite,mysql&theme=dark" />
   </a>
 </p>
   
