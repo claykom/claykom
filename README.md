@@ -60,3 +60,9 @@
    <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
   </div>
 </div>
+<div>
+  
+| *Desenv. Front End Web:* |
+| :----------------------: |
+| <p>HTML<img alt="HTML5" height="40" width="50" src="#"/></p> <img alt="CSS3" height="40" width="50" src="#"/> <img alt="JavaScript" height="40" width="50" src="#"/> |
+</div>
