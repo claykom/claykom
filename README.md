@@ -1,6 +1,4 @@
-![css](https://github.com/wontdisappoint/wontdisappoint/assets/40035603/c14dd7f7-b4f7-48f8-9614-8cd27c7bfb6e)<div align="center" class="container">
-  
-  # Welcome to my Profile 👋
+# Welcome to my Profile 👋
   <div>
     <button>
     <a href="https://twitter.com/wontdisappoint_">
@@ -63,7 +61,4 @@
     </a>
   </div>
 </div>
-
-
-
-![css](https://github.com/wontdisappoint/wontdisappoint/assets/40035603/f550fcaa-49f8-49fb-9c78-e7b1670eba3c)
+![css](https://github.com/wontdisappoint/wontdisappoint/assets/40035603/f92af697-67d3-45c9-8a26-c020f450f34c)
