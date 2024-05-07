@@ -69,7 +69,7 @@
 | <p>HTML<img alt="HTML5" height="40" width="50" src="#"/></p> <img alt="CSS3" height="40" width="50" src="#"/> <img alt="JavaScript" height="40" width="50" src="#"/> |
 </div>
 
-<table>
+<table style="width:100%">
   <tr>
     <th>
       Desenv. Front End Web
