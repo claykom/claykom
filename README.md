@@ -20,7 +20,11 @@
 <div>
 
   ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,js,css,cs&theme=dark" />
+  </a>
+</p>
   
   ## Contributions
   <div>
