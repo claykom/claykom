@@ -16,7 +16,6 @@
     I'm Clayton, a backend & systems developer with rich experience in big data & web scraping. I've recently expanded into game development & I'm learning at a rapid pace. I'd like to learn more about .NET Core & C# in general. You can find my blog on my website, I blog about all kinds of stuff like Software Comparisons, Design Principles, Tutorials, IT, & even up and coming technolgies, check it out.
   </p>
 </div>
-<div>
   ## Contributions
   <div>
     <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=past_1_year&user_id=40035603" target="_blank" style="display: block" align="center">
@@ -38,5 +37,4 @@
   ## GitHub Trophies
   <div>
     <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
-  </div>
 </div>
