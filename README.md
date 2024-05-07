@@ -12,7 +12,6 @@
             </a>
         </button>
         </div>
-    </div>
     <p>
     <span>
     I'm Clayton, a backend & tool developer with rich experience in big data & web scraping. I've recently expanded into game development & I'm learning at a rapid pace. I'd like to learn more about .NET Core & C# in general. You can find my blog on my website, I blog about all kinds of stuff like Software Comparisons, Design Principles, Tutorials, IT, & even up and coming technolgies, check it out.
@@ -52,4 +51,5 @@
         
   ## GitHub Trophies
   <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+    </div>
     </div>
