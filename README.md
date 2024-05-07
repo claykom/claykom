@@ -1,6 +1,6 @@
 ## Welcome to my Profile 👋 
 <div class="container">
-  <div>
+</div>
   <button>
   <a href="https://twitter.com/wontdisappoint_">
   <img alt="Static Badge" src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=%23000000&logoSize=15&label=%40wontdisappoint_&labelColor=%23657786&color=%23000000">
@@ -17,7 +17,9 @@
     I'm Clayton, a backend & systems developer with rich experience in big data & web scraping. I've recently expanded into game development & I'm learning at a rapid pace. I'd like to learn more about .NET Core & C# in general. You can find my blog on my website, I blog about all kinds of stuff like Software Comparisons, Design Principles, Tutorials, IT, & even up and coming technolgies, check it out.
   </p>
 </div>
-## Contributions
+<div>
+  
+  ## Contributions
   <div>
     <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=past_1_year&user_id=40035603" target="_blank" style="display: block" align="center">
       <picture>
@@ -26,6 +28,7 @@
       </picture>
     </a>
   </div>
+  
   ## GithHub Dashboard
   <div>
     <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=40035603" target="_blank" style="display: block" align="center">
@@ -35,8 +38,10 @@
       </picture>
     </a>
   </div>
+  
   ## GitHub Trophies
   <div>
     <img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+  </div>
 </div>
 </div>
