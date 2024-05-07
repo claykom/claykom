@@ -1,7 +1,9 @@
 
 ## Hi there 👋
 ### Checkout my Socials
-<img src="https://img.shields.io/twitter/follow/wontdisappoint_?logo=twitter&style=for-the-badge" alt="wontdisappoint_" />
+![Static Badge](https://img.shields.io/badge/Twitter-Twitter?style=for-the-badge&logo=x&logoColor=%23AAB8C2&logoSize=15&label=%40wontdisappoint_&labelColor=%23657786&color=%231DA1F2&link=https%3A%2F%2Ftwitter.com%2Fwontdisappoint_)
+
+
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=past_1_year&user_id=40035603" target="_blank" style="display: block" align="center">
