@@ -64,17 +64,14 @@
   
 <div align="center">
   
-| *Desenv. Front End Web:* | *:Test:* |
-| :----------------------: | :------: |
-| <p>HTML<img alt="HTML5" height="40" width="50" src="#"/></p> <img alt="CSS3" height="40" width="50" src="#"/> <img alt="JavaScript" height="40" width="50" src="#"/> |
-</div>
-
 <table style="width:100%">
   <tr>
     <th>Desenv. Front End Web</th>
     <th>test</th>
   </tr>
   <tr>
-    <td> <span>HTML<img alt="HTML5" height="40" width="50" src="#"/></span> <img alt="CSS3" height="40" width="50" src="#"/> <img alt="JavaScript" height="40" width="50" src="#"/> </td>
+    <td> <span>HTML<img alt="HTML5" height="40" width="50" src="#"/></span> <span>CSS<img alt="CSS3" height="40" width="50" src="#"/> </span> <span>JavaScript<img alt="JavaScript" height="40" width="50" src="#"/></span></td>
   </tr>
 </table>
+
+</div>
