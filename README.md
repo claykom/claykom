@@ -2,6 +2,8 @@
 ## Hi there 👋
 ### Checkout my Socials
 <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-Twitter?style=for-the-badge&logo=x&logoColor=%23AAB8C2&logoSize=15&label=%40wontdisappoint_&labelColor=%23657786&color=%231DA1F2&link=https%3A%2F%2Ftwitter.com%2Fwontdisappoint_">
+<img alt="Static Badge" src="https://img.shields.io/badge/stackoverflow-stackoverflow?style=for-the-badge&logo=stackoverflow&logoColor=%23AAB8C2&logoSize=15&label=%40wontdisappoint&labelColor=%23657786&color=%231DA1F2">
+
 
 
 
