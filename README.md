@@ -12,13 +12,14 @@
   </a>
 </button>
 </div>
+<div>
+  <p>
+I'm Clayton, a backend & systems developer with rich experience in big data & web scraping. I've recently expanded into game development & I'm learning at a rapid pace. I'd like to learn more about .NET Core & C# in general. You can find my blog on my website, I blog about all kinds of stuff like Software Comparisons, Design Principles, Tutorials, IT, & even up and coming technolgies, check it out.
+</p>
+</div>
 
-### I'm Clayton, a backend & systems developer with rich experience in big data & web scraping. I've recently expanded into game development & I'm learning at a rapid pace. I'd like to learn more about .NET Core & C# in general. You can find my blog on my website, I blog about all kinds of stuff like Software Comparisons, Design Principles, Tutorials, IT, & even up and coming technolgies, check it out.
-
-
-
-<!-- Copy-paste in your Readme.md file -->
-
+## Contributions & GitHub Stats
+<div>
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=past_1_year&user_id=40035603" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=past_1_year&user_id=40035603&image_size=auto&color_scheme=dark" width="721" height="auto">
@@ -26,9 +27,6 @@
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
-<!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=40035603" target="_blank" style="display: block" align="center">
   <picture>
@@ -36,9 +34,12 @@
     <img alt="Dashboard stats of @wontdisappoint" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=40035603&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+</div>
 
+## GitHub Trophies
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
+<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
+<!-- Copy-paste in your Readme.md file -->
 
 <!--
 **wontdisappoint/wontdisappoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
