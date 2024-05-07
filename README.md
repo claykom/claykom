@@ -18,6 +18,9 @@
   </p>
 </div>
 <div>
+
+  ## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs)](https://skillicons.dev)
   
   ## Contributions
   <div>
