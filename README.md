@@ -1,3 +1,4 @@
+
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=past_1_year&user_id=40035603" target="_blank" style="display: block" align="center">
@@ -8,6 +9,7 @@
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<img src="https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" />
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=40035603" target="_blank" style="display: block" align="center">
