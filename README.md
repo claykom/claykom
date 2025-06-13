@@ -25,7 +25,7 @@
   <div>
     <p>
       <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=go,js,html,css, cs,dotnet" />
+      <img src="https://skillicons.dev/icons?i=go,js,html,css,cs,dotnet&theme=dark" />
       </a>
     </p>
     
