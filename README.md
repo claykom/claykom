@@ -17,7 +17,7 @@
   ## About Me
    <div>
       <p>
-    I'm Clayton, a backend & tool developer with rich experience in big data & web scraping. I've recently expanded into game development & I'm learning at a rapid pace. I'd like to learn more about .NET Core & C# in general. You can find my blog on my website, I blog about all kinds of stuff like Software Comparisons, Design Principles, Tutorials, IT, & even up and coming technolgies, check it out.
+    I'm Clayton, a backend & tool developer with rich experience in big data & web scraping. I've recently ventured into web development & I'm learning at a rapid pace. I'd like to learn more about Golang and writing better code in general. You can find my blog on my website, I blog about all kinds of stuff like Software Comparisons, Design Principles, Tutorials, IT, & even up and coming technolgies, check it out.
       </p>
     </div>
   
@@ -25,14 +25,14 @@
   <div>
     <p>
       <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,php,laravel" />
+      <img src="https://skillicons.dev/icons?i=go,js,html,css, cs,dotnet"/>
       </a>
     </p>
     
   ### Other Skills
   <p>
       <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,linux,unity,rider,neovim,regex,sqlite,mysql&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,linux,neovim,regex,sqlite,mysql&theme=dark" />
       </a>
     </p>
   </div>
